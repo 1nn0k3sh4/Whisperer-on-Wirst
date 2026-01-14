@@ -3,7 +3,7 @@
 Your private AI companion that lives on your wrist.  
 No cloud? No problem. A complete local AI assistant with emotional intelligence, now available for **M5StickC Plus2** and **M5 Core** devices.
 
-![Demonstration](demo.gif)
+![Demonstration](demo1.gif)
 
 
 ## ✨ Why WoW?
